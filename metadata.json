@@ -1,0 +1,6 @@
+{
+  "name": "KrishiConnect AI",
+  "description": "AI-powered agriculture platform for Indian farmers and agricultural traders featuring multilingual assistance, mandi prices, smart crop listings, and direct trade negotiation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
